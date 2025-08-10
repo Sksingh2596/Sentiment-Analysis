@@ -44,9 +44,7 @@ Workflow & Key Steps
         Creates a bar chart showing how many texts fall into Positive, Negative, and Neutral categories.
 
         Color-coded bars for easy differentiation.
-        <img width="791" height="516" alt="image" src="https://github.com/user-attachments/assets/cb586473-65ca-4335-9a5b-8423e8dd66c5" />
-
-
+       
         Word Cloud Generation
 
   #Generates an overall Word Cloud for all text data combined.
